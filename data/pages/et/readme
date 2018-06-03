@@ -1,0 +1,47 @@
+<big>Riistvara haldamine</big>
+
+Manjaro ei toeta mitte ainult mitmete tuumade kasutamist (valitavad käivitusekraani täpsematest valikutest), vaid pakub ka ligipääsu verivärsketelt välja lastud tuumadele. Seda saab teha nii tuumamoodulist Manjaro graafilises seadetehalduris, kui ka käsurealt, kasutades MHWD-tuuma (Manjaro Hardware Detection) käsklust.
+
+Need Manjaro tööriistad uuendavad automaatselt viimati installitud tuuma koos kõigi kasutatavate moodulitega praeguses tuumas. Näiteks, kui uuendad tuuma versioonilt 3.18 versioonile 4.1, lisab mhwd-kernel automaatselt tuuma 4.1 versioonid ja kõik tuumaga 3.18 kasutatavad moodulid. Mis sa kostad!
+
+Sa saad oma riistvara seadistada läbi riistvaratuvastusmooduli seadetehalduris või läbi MHWD cli-rakenduse. Nende tööriistadega saad installida näiteks graafikadravereid, nii vabu kui omandiõiguslikke.
+
+<big>Abi saamine</big>
+
+Kuigi Manjaro on disainitud "karbist välja" töötamiseks nii hästi kui võimalik, ei väida me, et see on perfektne. Vahest võib tekkida olukord, kui asjad lähevad valesti, tekib küsimus ja soov rohkem lugeda või lihtsalt isikupärastada enda vajadustele vastavaks. See leht pakub teavet, suunamaks sind mõndadele aitavatele ressurssidele!
+
+<b>Otsi veebist</b>
+
+Ilmselt esimene koht, kust otsida üldist Linuxi abi on sinu lemmik otsingumootor. Lihtsalt lisa märksõnad "Linux", "Manjaro" või "Arch" oma päringusse.
+
+Kuna Manjaro põhineb Arch Linuxil, rakenduvad Archile mõeldud juhised ja nõuanded tavaliselt ka Manjarole.
+
+<b>Vaata foorumist</b>
+
+Täpsema abi saamiseks Manjaro kohta on meil vastav veebifoorum, kus sa saad otsida teemasid või luua ise üks! See on ilmselt järgmine koht, kuhu minna koostööd tegema, arutelu looma või abi saama. Küsi abi, postita oma arvamus või too välja mõned soovitused. Ära häbene!
+
+Manjaro foorum on jaotatud erinevate teemade ja keskkondade kaupa alamfoorumiteks, palun postita oma päring sobivasse kohta!
+
+<b>Liitu meiega IRCis (Internet Relay Chat)</b>
+
+Veel üks võimalus on liituda meiega IRCis, liitudes meie #manjaro kanaliga chat.freenode.net serverites.
+
+<b>Registreeru meililistiga</b>
+
+Veel üks viis abi saada on saata küsimused e-kirjaga Manjaro meililisti (saad ka ajaloost vanu arutelusid otsida). Lihtsalt registreeru sind huvitavale meililistile ja järgi juhiseid. Liste on saadaval mitme teema jaoks, lihtsalt uuri!
+
+<big>Muud ressursid</big>
+
+    - <a href="https://de.manjaro.org/">Manjaro Saksamaa</a> - Ametlik tugi meie saksa kogukonnale.
+    - <a href="https://aur.archlinux.org">AURi hoidla</a> - Lisatarkvara, mida pole põhihoidlates, allikast kompileeritud.
+    - <a href="https://wiki.manjaro.org">Manjaro viki</a> - Ametlik viki Manjarole.
+    - <a href="https://wiki.archlinux.org">Arch viki</a> - Ametlik viki Archile.
+    - <a href="http://manjaro.org/irc-channel">IRC vestlus</a> - Reaalajas vestlus ja abi kasutajalt kasutajale.
+
+<big>Soovitused</big>
+
+Kas on soovitusi selle kohta, kuidas saaksime Manjarot paremaks teha?Leidsid midagi, mida tahaksid juurde lisada, või soovid kaasa aidata?Palun anna meile teada, postitades oma soovituse foorumisse või rääkides sellest IRCis.
+
+Täname!
+
+Loodame, et naudid Manjaro kasutamist!
